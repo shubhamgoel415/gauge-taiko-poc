@@ -1,0 +1,1 @@
+var index = {"Tags":{"new":["specs/search.html"],"refresh":["specs/search.html"],"search":["specs/search.html"]},"Specs":{"Search something on Google":["specs/search.html"]}};

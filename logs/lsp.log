@@ -1,0 +1,864 @@
+06-01-2020 16:31:14.366 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+06-01-2020 16:31:14.374 [Gauge] [DEBUG] Found 1 files
+06-01-2020 16:31:14.519 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-01-2020 16:31:14.522 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-01-2020 16:31:14.522 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+06-01-2020 16:31:14.522 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-01-2020 16:31:14.528 [Gauge] [INFO] Starting language runner
+06-01-2020 16:31:16.344 [Gauge] [INFO] Listening on port:63826
+06-01-2020 16:31:16.348 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-01-2020 16:33:03.318 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\.gauge\executionStatus.json doesn't exist.
+06-01-2020 16:33:04.166 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+06-01-2020 16:33:04.170 [Gauge] [DEBUG] Found 1 files
+06-01-2020 16:33:04.290 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-01-2020 16:33:04.293 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-01-2020 16:33:04.293 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+06-01-2020 16:33:04.293 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-01-2020 16:33:04.304 [Gauge] [INFO] Starting language runner
+(node:18440) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+06-01-2020 16:33:08.245 [Gauge] [INFO] Listening on port:63927
+06-01-2020 16:33:08.246 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-01-2020 16:49:48.756 [Gauge] [DEBUG] request #41: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec:1 Spec does not have any elements
+06-01-2020 16:49:48.860 [Gauge] [DEBUG] request #42: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:09.957 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:09.958 [Gauge] [INFO] Spec file removed: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:10.175 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:10.275 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:10.387 [Gauge] [DEBUG] request #48: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:10.613 [Gauge] [DEBUG] request #49: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:12.773 [Gauge] [DEBUG] request #50: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:12.873 [Gauge] [DEBUG] request #52: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:13.521 [Gauge] [DEBUG] request #54: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:13.618 [Gauge] [DEBUG] request #55: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:14.368 [Gauge] [DEBUG] request #56: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:14.468 [Gauge] [DEBUG] request #58: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:15.634 [Gauge] [DEBUG] request #60: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:15.729 [Gauge] [DEBUG] request #62: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:16.560 [Gauge] [DEBUG] request #64: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:16.657 [Gauge] [DEBUG] request #66: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:16.954 [Gauge] [DEBUG] request #67: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:17.054 [Gauge] [DEBUG] request #69: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:17.946 [Gauge] [DEBUG] request #71: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:18.577 [Gauge] [DEBUG] request #72: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:18.674 [Gauge] [DEBUG] request #74: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:19.644 [Gauge] [DEBUG] request #76: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:19.744 [Gauge] [DEBUG] request #77: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:21.130 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:21.156 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:26.025 [Gauge] [DEBUG] request #79: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:26.125 [Gauge] [DEBUG] request #80: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:27.809 [Gauge] [DEBUG] request #81: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements
+06-01-2020 16:50:27.907 [Gauge] [DEBUG] request #82: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec does not have any elements => '']
+06-01-2020 16:50:28.435 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:28.481 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:50:57.053 [Gauge] [DEBUG] request #84: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec should have atleast one scenario
+06-01-2020 16:50:57.151 [Gauge] [DEBUG] request #85: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec should have atleast one scenario => '']
+06-01-2020 16:50:58.510 [Gauge] [DEBUG] request #86: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:50:58.607 [Gauge] [DEBUG] request #87: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:50:59.423 [Gauge] [DEBUG] request #88: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:50:59.691 [Gauge] [DEBUG] request #90: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:50:59.791 [Gauge] [DEBUG] request #91: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:51:00.995 [Gauge] [DEBUG] request #93: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:51:01.292 [Gauge] [DEBUG] request #94: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:51:01.855 [Gauge] [DEBUG] request #95: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:51:01.953 [Gauge] [DEBUG] request #97: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:51:02.799 [Gauge] [DEBUG] request #99: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:51:02.898 [Gauge] [DEBUG] request #101: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:51:03.419 [Gauge] [DEBUG] request #102: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:51:03.533 [Gauge] [DEBUG] request #103: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:52:45.314 [Gauge] [DEBUG] request #105: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:52:46.867 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:52:46.915 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:54:51.162 [Gauge] [DEBUG] request #107: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:54:52.397 [Gauge] [DEBUG] request #108: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:54:52.495 [Gauge] [DEBUG] request #109: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:54:54.591 [Gauge] [DEBUG] request #110: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:54:54.691 [Gauge] [DEBUG] request #112: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:54:55.230 [Gauge] [DEBUG] request #114: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step
+06-01-2020 16:54:55.329 [Gauge] [DEBUG] request #115: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Scenario should have atleast one step => '']
+06-01-2020 16:54:55.854 [Gauge] [DEBUG] request #118: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:4 Step should not be blank
+06-01-2020 16:54:55.952 [Gauge] [DEBUG] request #119: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:4 Step should not be blank => '']
+06-01-2020 16:54:57.292 [Gauge] [DEBUG] request #127: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:4 Step should not be blank
+06-01-2020 16:55:08.482 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 16:55:08.520 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+06-01-2020 17:09:52.195 [Gauge] [DEBUG] request #180: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Step should not be blank
+06-01-2020 17:09:52.282 [Gauge] [DEBUG] request #181: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Step should not be blank => '']
+06-01-2020 17:09:53.050 [Gauge] [DEBUG] request #185: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Step should not be blank
+06-01-2020 17:09:53.142 [Gauge] [DEBUG] request #186: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:3 Step should not be blank => '']
+06-01-2020 17:10:11.413 [Gauge] [DEBUG] request #239: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank
+06-01-2020 17:10:11.506 [Gauge] [DEBUG] request #240: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank => '']
+06-01-2020 17:10:11.856 [Gauge] [DEBUG] request #242: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank
+06-01-2020 17:10:11.937 [Gauge] [DEBUG] request #243: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank => '']
+07-01-2020 11:48:15.808 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 11:48:16.006 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 11:48:41.012 [Gauge] [DEBUG] request #415: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table location not specified
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Could not resolve table from table:
+07-01-2020 11:48:41.129 [Gauge] [DEBUG] request #416: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table location not specified => 'table: ' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Could not resolve table from table: => 'table:']
+07-01-2020 11:48:44.201 [Gauge] [DEBUG] request #418: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:44.281 [Gauge] [DEBUG] request #420: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|']
+07-01-2020 11:48:48.674 [Gauge] [DEBUG] request #423: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:48.772 [Gauge] [DEBUG] request #424: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|']
+07-01-2020 11:48:49.412 [Gauge] [DEBUG] request #425: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:49.744 [Gauge] [DEBUG] request #427: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:49.844 [Gauge] [DEBUG] request #428: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|']
+07-01-2020 11:48:51.192 [Gauge] [DEBUG] request #430: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:51.287 [Gauge] [DEBUG] request #432: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|']
+07-01-2020 11:48:52.066 [Gauge] [DEBUG] request #434: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:52.163 [Gauge] [DEBUG] request #436: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|HEADER|HEADER|HEADER|HEADER|']
+07-01-2020 11:48:55.429 [Gauge] [DEBUG] request #440: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:55.527 [Gauge] [DEBUG] request #442: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|wewe|HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '|wewe|HEADER|HEADER|HEADER|']
+07-01-2020 11:48:56.533 [Gauge] [DEBUG] request #443: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header should not be blank
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values
+07-01-2020 11:48:56.628 [Gauge] [DEBUG] request #445: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header should not be blank => '||HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '||HEADER|HEADER|HEADER|' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Table header cannot have repeated column values => '||HEADER|HEADER|HEADER|']
+07-01-2020 11:48:57.691 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 11:48:57.719 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 11:49:02.296 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 11:49:02.331 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:11:17.181 [Gauge] [CRITICAL] request #467: textDocument/codeAction: runtime error: invalid memory address or nil pointer dereference
+goroutine 2305 [running]:
+runtime/debug.Stack(0xc00041b4d8, 0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc0000bac30)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:291 +0x5e
+panic(0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/panic.go:522 +0x1c3
+github.com/getgauge/gauge/api/lang.createConceptInfo(0xc000250190, 0x48, 0x8, 0x0, 0x1, 0xc0004cd400, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:90 +0x25f
+github.com/getgauge/gauge/api/lang.getSpecCodeAction(0xc000250190, 0x48, 0x8, 0x0, 0x9, 0x3a, 0xc0000e0b00, 0x1, 0x4, 0x5c35a0, ...)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:52 +0x30b
+github.com/getgauge/gauge/api/lang.codeActions(0xc0000bac30, 0xb836de, 0x17, 0x1, 0xffffffffffffffff)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:44 +0x210
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x117fa98, 0xc70480, 0xc000072120, 0xc6cc40, 0xc00005c720, 0xc0000bac30, 0x0, 0x0, 0xc00045fec0, 0x5b0916)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:158 +0x1e49
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x117fa98, 0xc70480, 0xc000072120, 0xc00005c720, 0xc0000bac30, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:70 +0xad
+github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2.HandlerWithError.Handle(0xc0004460f0, 0xc70480, 0xc000072120, 0xc00005c720, 0xc0000bac30)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:14 +0x76
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:65 +0x72
+07-01-2020 12:11:18.710 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+07-01-2020 12:11:18.711 [Gauge] [DEBUG] Found 2 files
+07-01-2020 12:11:18.826 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-01-2020 12:11:18.829 [Gauge] [INFO] Initializing specs cache with 2 specs
+07-01-2020 12:11:18.829 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:11:18.829 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+07-01-2020 12:11:18.829 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-01-2020 12:11:18.850 [Gauge] [INFO] Starting language runner
+(node:12648) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+07-01-2020 12:11:24.480 [Gauge] [INFO] Listening on port:58272
+07-01-2020 12:11:24.483 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-01-2020 12:11:31.421 [Gauge] [DEBUG] request #17: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec heading should have at least one character
+07-01-2020 12:11:31.517 [Gauge] [DEBUG] request #18: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:1 Spec heading should have at least one character => '']
+07-01-2020 12:11:58.184 [Gauge] [DEBUG] request #70: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:4 Step should not be blank
+07-01-2020 12:11:58.276 [Gauge] [DEBUG] request #71: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:4 Step should not be blank => '']
+07-01-2020 12:11:58.848 [Gauge] [DEBUG] request #73: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:4 Step should not be blank
+07-01-2020 12:11:58.947 [Gauge] [DEBUG] request #74: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:4 Step should not be blank => '']
+07-01-2020 12:12:07.600 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:12:07.717 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:13:20.867 [Gauge] [DEBUG] request #143: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:5 Step should not be blank
+07-01-2020 12:13:20.960 [Gauge] [DEBUG] request #144: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:5 Step should not be blank => '']
+07-01-2020 12:13:27.605 [Gauge] [DEBUG] request #164: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Step should not be blank
+07-01-2020 12:13:27.695 [Gauge] [DEBUG] request #165: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:7 Step should not be blank => '']
+07-01-2020 12:13:51.525 [Gauge] [DEBUG] request #200: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:13:51.618 [Gauge] [DEBUG] request #202: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:13:51.951 [Gauge] [DEBUG] request #203: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:13:52.047 [Gauge] [DEBUG] request #204: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:13:53.228 [Gauge] [DEBUG] request #205: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:13:53.328 [Gauge] [DEBUG] request #207: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:13:54.305 [Gauge] [DEBUG] request #209: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:13:54.403 [Gauge] [DEBUG] request #210: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:13:55.232 [Gauge] [DEBUG] request #211: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:13:55.331 [Gauge] [DEBUG] request #213: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:13:56.416 [Gauge] [DEBUG] request #215: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:13:56.686 [Gauge] [DEBUG] request #216: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:13:56.784 [Gauge] [DEBUG] request #218: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:13:58.878 [Gauge] [DEBUG] request #220: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:14:00.106 [Gauge] [DEBUG] request #221: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:14:00.619 [Gauge] [DEBUG] request #222: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:14:00.720 [Gauge] [DEBUG] request #224: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:14:01.328 [Gauge] [DEBUG] request #226: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:14:01.426 [Gauge] [DEBUG] request #228: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:14:01.756 [Gauge] [DEBUG] request #229: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step
+07-01-2020 12:14:01.855 [Gauge] [DEBUG] request #230: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:9 Scenario should have atleast one step => '']
+07-01-2020 12:14:03.934 [Gauge] [DEBUG] request #233: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank
+07-01-2020 12:14:04.031 [Gauge] [DEBUG] request #234: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank => '']
+07-01-2020 12:14:13.112 [Gauge] [DEBUG] request #241: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank
+07-01-2020 12:14:13.200 [Gauge] [DEBUG] request #242: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:10 Step should not be blank => '']
+07-01-2020 12:14:45.486 [Gauge] [DEBUG] request #317: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:11 Step should not be blank
+07-01-2020 12:14:45.585 [Gauge] [DEBUG] request #318: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:11 Step should not be blank => '']
+07-01-2020 12:14:48.994 [Gauge] [DEBUG] request #331: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:11 Step should not be blank
+07-01-2020 12:14:49.892 [Gauge] [DEBUG] request #336: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:11 Step should not be blank
+07-01-2020 12:14:49.985 [Gauge] [DEBUG] request #337: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:11 Step should not be blank => '']
+07-01-2020 12:16:05.173 [Gauge] [DEBUG] request #518: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:05.265 [Gauge] [DEBUG] request #520: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:05.557 [Gauge] [DEBUG] request #521: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:05.652 [Gauge] [DEBUG] request #522: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:06.878 [Gauge] [DEBUG] request #523: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:06.962 [Gauge] [DEBUG] request #524: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:07.559 [Gauge] [DEBUG] request #525: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:07.648 [Gauge] [DEBUG] request #526: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:08.048 [Gauge] [DEBUG] request #527: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:08.146 [Gauge] [DEBUG] request #528: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:09.307 [Gauge] [DEBUG] request #529: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:09.406 [Gauge] [DEBUG] request #531: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:10.126 [Gauge] [DEBUG] request #533: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:10.399 [Gauge] [DEBUG] request #535: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:10.499 [Gauge] [DEBUG] request #536: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:11.531 [Gauge] [DEBUG] request #537: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:11.631 [Gauge] [DEBUG] request #538: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:12.462 [Gauge] [DEBUG] request #539: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:12.794 [Gauge] [DEBUG] request #540: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:12.894 [Gauge] [DEBUG] request #542: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:13.357 [Gauge] [DEBUG] request #543: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:13.455 [Gauge] [DEBUG] request #545: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:14.720 [Gauge] [DEBUG] request #547: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:14.820 [Gauge] [DEBUG] request #549: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:17.345 [Gauge] [DEBUG] request #551: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:17.442 [Gauge] [DEBUG] request #552: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:18.637 [Gauge] [DEBUG] request #553: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:18.736 [Gauge] [DEBUG] request #554: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:20.075 [Gauge] [DEBUG] request #555: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:20.173 [Gauge] [DEBUG] request #557: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:21.259 [Gauge] [DEBUG] request #558: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:21.360 [Gauge] [DEBUG] request #560: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:21.818 [Gauge] [DEBUG] request #561: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step
+07-01-2020 12:16:21.919 [Gauge] [DEBUG] request #562: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:13 Scenario should have atleast one step => '']
+07-01-2020 12:16:23.597 [Gauge] [DEBUG] request #566: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 Step should not be blank
+07-01-2020 12:16:23.695 [Gauge] [DEBUG] request #567: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 Step should not be blank => '']
+07-01-2020 12:17:08.113 [Gauge] [DEBUG] request #573: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 Step should not be blank
+07-01-2020 12:17:08.191 [Gauge] [DEBUG] request #574: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 Step should not be blank => '']
+07-01-2020 12:17:11.986 [Gauge] [DEBUG] request #579: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 Step should not be blank
+07-01-2020 12:17:12.079 [Gauge] [DEBUG] request #580: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 Step should not be blank => '']
+07-01-2020 12:17:33.254 [Gauge] [DEBUG] request #670: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:15 Step should not be blank
+07-01-2020 12:17:33.343 [Gauge] [DEBUG] request #671: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:15 Step should not be blank => '']
+07-01-2020 12:17:33.672 [Gauge] [DEBUG] request #673: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:15 Step should not be blank
+07-01-2020 12:17:33.762 [Gauge] [DEBUG] request #674: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:15 Step should not be blank => '']
+07-01-2020 12:17:48.761 [Gauge] [DEBUG] request #717: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 String not terminated
+07-01-2020 12:17:48.852 [Gauge] [DEBUG] request #718: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:14 String not terminated => 'Hulk" Snap his finger to bring everybody back']
+07-01-2020 12:18:47.348 [Gauge] [DEBUG] request #830: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:15 Step should not be blank
+07-01-2020 12:18:47.440 [Gauge] [DEBUG] request #831: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec:15 Step should not be blank => '']
+07-01-2020 12:19:17.984 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:19:18.005 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:19:27.910 [Gauge] [CRITICAL] request #941: textDocument/codeAction: runtime error: invalid memory address or nil pointer dereference
+goroutine 4723 [running]:
+runtime/debug.Stack(0xc0004e14d8, 0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc0001a1ef0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:291 +0x5e
+panic(0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/panic.go:522 +0x1c3
+github.com/getgauge/gauge/api/lang.createConceptInfo(0xc000078320, 0x48, 0x0, 0x0, 0x1, 0xc0004c5540, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:90 +0x25f
+github.com/getgauge/gauge/api/lang.getSpecCodeAction(0xc000078320, 0x48, 0x0, 0x0, 0xe, 0x2c, 0xc0003ca380, 0x7, 0x9, 0xc000392820, ...)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:52 +0x30b
+github.com/getgauge/gauge/api/lang.codeActions(0xc0001a1ef0, 0xb836de, 0x17, 0x1, 0xffffffffffffffff)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:44 +0x210
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x117fa98, 0xc70480, 0xc000072120, 0xc6cc40, 0xc00018c7e0, 0xc0001a1ef0, 0x0, 0xc0001a8f00, 0x3, 0xc000197ec8)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:158 +0x1e49
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x117fa98, 0xc70480, 0xc000072120, 0xc00018c7e0, 0xc0001a1ef0, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:70 +0xad
+github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2.HandlerWithError.Handle(0xc0001b2290, 0xc70480, 0xc000072120, 0xc00018c7e0, 0xc0001a1ef0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:14 +0x76
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:65 +0x72
+07-01-2020 12:19:29.100 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+07-01-2020 12:19:29.101 [Gauge] [DEBUG] Found 2 files
+07-01-2020 12:19:29.205 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-01-2020 12:19:29.208 [Gauge] [INFO] Initializing specs cache with 2 specs
+07-01-2020 12:19:29.208 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+07-01-2020 12:19:29.208 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:19:29.208 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-01-2020 12:19:29.212 [Gauge] [INFO] Starting language runner
+(node:16368) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+07-01-2020 12:19:30.861 [Gauge] [INFO] Listening on port:58350
+07-01-2020 12:19:30.865 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-01-2020 12:19:42.317 [Gauge] [CRITICAL] request #12: textDocument/codeAction: runtime error: invalid memory address or nil pointer dereference
+goroutine 101 [running]:
+runtime/debug.Stack(0xc0000914d8, 0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc0000bbf40)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:291 +0x5e
+panic(0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/panic.go:522 +0x1c3
+github.com/getgauge/gauge/api/lang.createConceptInfo(0xc0001ca370, 0x48, 0x0, 0x0, 0x1, 0xc000058b00, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:90 +0x25f
+github.com/getgauge/gauge/api/lang.getSpecCodeAction(0xc0001ca370, 0x48, 0x0, 0x0, 0xe, 0x2c, 0xc00005ea80, 0x7, 0x9, 0xc0003e2080, ...)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:52 +0x30b
+github.com/getgauge/gauge/api/lang.codeActions(0xc0000bbf40, 0xb836de, 0x17, 0x1, 0xffffffffffffffff)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:44 +0x210
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x117fa98, 0xc70480, 0xc000072120, 0xc6cc40, 0xc00018c420, 0xc0000bbf40, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:158 +0x1e49
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x117fa98, 0xc70480, 0xc000072120, 0xc00018c420, 0xc0000bbf40, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:70 +0xad
+github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2.HandlerWithError.Handle(0xc0001a4650, 0xc70480, 0xc000072120, 0xc00018c420, 0xc0000bbf40)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:14 +0x76
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:65 +0x72
+07-01-2020 12:19:42.832 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+07-01-2020 12:19:42.834 [Gauge] [DEBUG] Found 2 files
+07-01-2020 12:19:42.941 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-01-2020 12:19:42.943 [Gauge] [INFO] Initializing specs cache with 2 specs
+07-01-2020 12:19:42.943 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:19:42.943 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+07-01-2020 12:19:42.943 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-01-2020 12:19:42.948 [Gauge] [INFO] Starting language runner
+(node:19308) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+07-01-2020 12:19:44.098 [Gauge] [INFO] Listening on port:58353
+07-01-2020 12:19:44.101 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-01-2020 12:19:47.344 [Gauge] [CRITICAL] request #5: textDocument/codeAction: runtime error: invalid memory address or nil pointer dereference
+goroutine 85 [running]:
+runtime/debug.Stack(0xc0002b94d8, 0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc0000a3680)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:291 +0x5e
+panic(0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/panic.go:522 +0x1c3
+github.com/getgauge/gauge/api/lang.createConceptInfo(0xc000405900, 0x48, 0x0, 0x0, 0x1, 0xc00016d6c0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:90 +0x25f
+github.com/getgauge/gauge/api/lang.getSpecCodeAction(0xc000405900, 0x48, 0x0, 0x0, 0xe, 0x2c, 0xc000055180, 0x7, 0x9, 0xc0002fc410, ...)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:52 +0x30b
+github.com/getgauge/gauge/api/lang.codeActions(0xc0000a3680, 0xb836de, 0x17, 0x1, 0xffffffffffffffff)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:44 +0x210
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x117fa98, 0xc70480, 0xc000034148, 0xc6cc40, 0xc00016f0e0, 0xc0000a3680, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:158 +0x1e49
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x117fa98, 0xc70480, 0xc000034148, 0xc00016f0e0, 0xc0000a3680, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:70 +0xad
+github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2.HandlerWithError.Handle(0xc0002fc520, 0xc70480, 0xc000034148, 0xc00016f0e0, 0xc0000a3680)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:14 +0x76
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:65 +0x72
+07-01-2020 12:19:47.832 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+07-01-2020 12:19:47.833 [Gauge] [DEBUG] Found 2 files
+07-01-2020 12:19:47.932 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-01-2020 12:19:47.935 [Gauge] [INFO] Initializing specs cache with 2 specs
+07-01-2020 12:19:47.935 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+07-01-2020 12:19:47.935 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:19:47.935 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-01-2020 12:19:47.939 [Gauge] [INFO] Starting language runner
+(node:6700) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+07-01-2020 12:19:49.075 [Gauge] [INFO] Listening on port:58356
+07-01-2020 12:19:49.078 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-01-2020 12:20:03.875 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:20:03.907 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:20:20.021 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:20:20.056 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:20:33.092 [Gauge] [CRITICAL] request #77: textDocument/codeAction: runtime error: invalid memory address or nil pointer dereference
+goroutine 383 [running]:
+runtime/debug.Stack(0xc0003674d8, 0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc0001a1770)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:291 +0x5e
+panic(0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/panic.go:522 +0x1c3
+github.com/getgauge/gauge/api/lang.createConceptInfo(0xc00002f220, 0x48, 0x8, 0x0, 0x1, 0xc00044f840, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:90 +0x25f
+github.com/getgauge/gauge/api/lang.getSpecCodeAction(0xc00002f220, 0x48, 0x8, 0x0, 0xa, 0x1b, 0xc000301b80, 0x2, 0x4, 0xc00047ffe0, ...)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:52 +0x30b
+github.com/getgauge/gauge/api/lang.codeActions(0xc0001a1770, 0xb836de, 0x17, 0x1, 0xffffffffffffffff)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:44 +0x210
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x117fa98, 0xc70480, 0xc000072120, 0xc6cc40, 0xc00031d020, 0xc0001a1770, 0x0, 0xc000195980, 0x3, 0xc000435ec8)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:158 +0x1e49
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x117fa98, 0xc70480, 0xc000072120, 0xc00031d020, 0xc0001a1770, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:70 +0xad
+github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2.HandlerWithError.Handle(0xc00031e520, 0xc70480, 0xc000072120, 0xc00031d020, 0xc0001a1770)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:14 +0x76
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:65 +0x72
+07-01-2020 12:20:33.634 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+07-01-2020 12:20:33.635 [Gauge] [DEBUG] Found 2 files
+07-01-2020 12:20:33.739 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-01-2020 12:20:33.741 [Gauge] [INFO] Initializing specs cache with 2 specs
+07-01-2020 12:20:33.741 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\example.spec
+07-01-2020 12:20:33.741 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\abc.spec
+07-01-2020 12:20:33.741 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-01-2020 12:20:33.746 [Gauge] [INFO] Starting language runner
+(node:8960) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+07-01-2020 12:20:34.878 [Gauge] [INFO] Listening on port:58361
+07-01-2020 12:20:34.881 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-01-2020 12:20:46.458 [Gauge] [CRITICAL] request #22: textDocument/codeAction: runtime error: invalid memory address or nil pointer dereference
+goroutine 107 [running]:
+runtime/debug.Stack(0xc0000994d8, 0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc00040a8c0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:291 +0x5e
+panic(0xaa5240, 0x114ea90)
+	/usr/local/Cellar/go/1.12.4/libexec/src/runtime/panic.go:522 +0x1c3
+github.com/getgauge/gauge/api/lang.createConceptInfo(0xc000078230, 0x48, 0x8, 0x0, 0x1, 0xc00048f3c0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:90 +0x25f
+github.com/getgauge/gauge/api/lang.getSpecCodeAction(0xc000078230, 0x48, 0x8, 0x0, 0xa, 0x1b, 0xc000256420, 0x2, 0x4, 0x0, ...)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:52 +0x30b
+github.com/getgauge/gauge/api/lang.codeActions(0xc00040a8c0, 0xb836de, 0x17, 0x1, 0xffffffffffffffff)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/codeAction.go:44 +0x210
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x117fa98, 0xc70480, 0xc000072120, 0xc6cc40, 0xc00018c8a0, 0xc00040a8c0, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:158 +0x1e49
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x117fa98, 0xc70480, 0xc000072120, 0xc00018c8a0, 0xc00040a8c0, 0x0, 0x0, 0x0, 0x0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:70 +0xad
+github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2.HandlerWithError.Handle(0xc0001a4290, 0xc70480, 0xc000072120, 0xc00018c8a0, 0xc00040a8c0)
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:14 +0x76
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	/Users/admin/Documents/Doga/pipelines/Gauge-Build/src/github.com/getgauge/gauge/api/lang/server.go:65 +0x72
+09-01-2020 15:49:36.102 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+09-01-2020 15:49:36.210 [Gauge] [DEBUG] Found 2 files
+09-01-2020 15:49:37.034 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+09-01-2020 15:49:37.034 [Gauge] [DEBUG] Adding concepts from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 15:49:37.047 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-01-2020 15:49:37.047 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 15:49:37.047 [Gauge] [INFO] Initializing steps cache with 2 steps
+09-01-2020 15:49:37.053 [Gauge] [INFO] Starting language runner
+(node:13104) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+09-01-2020 15:49:41.847 [Gauge] [INFO] Listening on port:57954
+09-01-2020 15:49:41.852 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+timers.js:450
+throw new TypeError('"callback" argument must be a function');
+^
+
+TypeError: "callback" argument must be a function
+at setTimeout (timers.js:450:11)
+at LspServerHandler.killProcess (C:\Users\shubgoel\AppData\Roaming\gauge\plugins\js\2.3.6\src\lsp-server.js:101:5)
+at C:\Users\shubgoel\AppData\Roaming\gauge\plugins\js\2.3.6\node_modules\grpc\src\server.js:593:13
+09-01-2020 15:49:52.910 [Gauge] [INFO] Connection closed
+09-01-2020 15:50:11.557 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+09-01-2020 15:50:11.564 [Gauge] [DEBUG] Found 2 files
+09-01-2020 15:50:13.505 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+09-01-2020 15:50:13.506 [Gauge] [DEBUG] Adding concepts from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 15:50:13.509 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-01-2020 15:50:13.509 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 15:50:13.509 [Gauge] [INFO] Initializing steps cache with 2 steps
+09-01-2020 15:50:13.612 [Gauge] [INFO] Starting language runner
+(node:24076) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+09-01-2020 15:50:19.486 [Gauge] [INFO] Listening on port:58008
+09-01-2020 15:50:19.489 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+09-01-2020 15:58:19.078 [Gauge] [ERROR] Line 28: Unexpected token }
+09-01-2020 15:58:25.827 [Gauge] [ERROR] Line 28: Unexpected token }
+09-01-2020 16:03:43.805 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:43.847 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:46.177 [Gauge] [DEBUG] request #99: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:46.260 [Gauge] [DEBUG] request #101: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:46.415 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:46.440 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:46.715 [Gauge] [DEBUG] request #102: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario heading should have at least one character
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:46.815 [Gauge] [DEBUG] request #103: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario heading should have at least one character => '' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:46.969 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:47.004 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:47.658 [Gauge] [DEBUG] request #104: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:47.755 [Gauge] [DEBUG] request #106: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:47.911 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:47.936 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:48.550 [Gauge] [DEBUG] request #107: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:49.420 [Gauge] [DEBUG] request #109: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:49.519 [Gauge] [DEBUG] request #110: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:49.675 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:49.779 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:50.363 [Gauge] [DEBUG] request #111: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:50.463 [Gauge] [DEBUG] request #113: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:50.619 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:50.650 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:55.682 [Gauge] [DEBUG] request #116: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:55.778 [Gauge] [DEBUG] request #117: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:55.934 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:55.961 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:56.716 [Gauge] [DEBUG] request #118: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:56.815 [Gauge] [DEBUG] request #120: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:57.115 [Gauge] [DEBUG] request #121: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:57.215 [Gauge] [DEBUG] request #123: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:57.372 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:57.393 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:58.713 [Gauge] [DEBUG] request #127: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:58.955 [Gauge] [DEBUG] request #128: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:59.055 [Gauge] [DEBUG] request #129: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:59.211 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:59.234 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:59.612 [Gauge] [DEBUG] request #131: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:03:59.712 [Gauge] [DEBUG] request #132: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:03:59.869 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:03:59.929 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:01.346 [Gauge] [DEBUG] request #133: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:04:01.443 [Gauge] [DEBUG] request #135: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:04:01.599 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:01.621 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:02.991 [Gauge] [DEBUG] request #137: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:04:03.090 [Gauge] [DEBUG] request #138: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:04:03.387 [Gauge] [DEBUG] request #139: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step
+09-01-2020 16:04:03.488 [Gauge] [DEBUG] request #140: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:14 Scenario should have atleast one step => '']
+09-01-2020 16:04:03.643 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:03.669 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:04.925 [Gauge] [DEBUG] request #142: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:17 Step should not be blank
+09-01-2020 16:04:05.025 [Gauge] [DEBUG] request #144: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:17 Step should not be blank => '']
+09-01-2020 16:04:05.179 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:05.201 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:06.375 [Gauge] [DEBUG] request #148: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:17 Step should not be blank
+09-01-2020 16:04:07.174 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:07.217 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:08.507 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:08.548 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:09.771 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:09.831 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:12.590 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:12.618 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:13.548 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:13.601 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:14.970 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:15.025 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:16.284 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:16.400 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:37.822 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:37.850 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:38.667 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:38.700 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:39.508 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:39.540 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:41.018 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:41.039 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:42.126 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:42.154 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:44.942 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:44.976 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:50.718 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:50.754 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:51.647 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:51.707 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:52.543 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:52.568 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:53.627 [Gauge] [DEBUG] request #228: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:18 Step should not be blank
+09-01-2020 16:04:53.965 [Gauge] [DEBUG] request #230: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:18 Step should not be blank
+09-01-2020 16:04:54.063 [Gauge] [DEBUG] request #231: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:18 Step should not be blank => '']
+09-01-2020 16:04:54.219 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:54.250 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:56.042 [Gauge] [DEBUG] request #239: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:18 Step should not be blank
+09-01-2020 16:04:56.143 [Gauge] [DEBUG] request #240: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:18 Step should not be blank => '']
+09-01-2020 16:04:56.308 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:56.386 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:57.437 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:57.463 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:58.688 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:04:58.720 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:05:00.517 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:05:00.551 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:05:01.789 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:05:01.860 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:05:03.457 [Gauge] [DEBUG] request #257: textDocument/definition: Step implementation not found for step : Save current tab Title and Open new Tab
+09-01-2020 16:05:03.897 [Gauge] [DEBUG] request #259: textDocument/definition: Step implementation not found for step : Save current tab Title and Open new Tab
+09-01-2020 16:05:06.212 [Gauge] [DEBUG] request #262: textDocument/definition: Step implementation not found for step : Save current tab Title and Open new Tab
+09-01-2020 16:05:06.559 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:05:06.595 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:05:09.348 [Gauge] [DEBUG] request #268: textDocument/definition: Step implementation not found for step : Save current tab Title and Open new Tab
+09-01-2020 16:05:10.013 [Gauge] [DEBUG] request #269: textDocument/definition: Step implementation not found for step : Save current tab Title and Open new Tab
+{"logLevel":"info","message":{}}
+09-01-2020 16:05:17.920 [Gauge] [INFO] 
+{"logLevel":"info","message":{}}
+09-01-2020 16:05:18.700 [Gauge] [INFO] 
+09-01-2020 16:05:23.249 [Gauge] [ERROR] Line 41: Invalid left-hand side in assignment
+09-01-2020 16:05:24.165 [Gauge] [ERROR] Line 41: Unexpected token )
+09-01-2020 16:05:24.368 [Gauge] [ERROR] Line 41: Unexpected token )
+09-01-2020 16:06:27.620 [Gauge] [ERROR] Line 43: Unexpected token }
+09-01-2020 16:06:47.287 [Gauge] [ERROR] Line 43: Unexpected token }
+09-01-2020 16:06:51.880 [Gauge] [ERROR] Line 43: Unexpected token }
+09-01-2020 16:07:22.390 [Gauge] [ERROR] Line 44: Unexpected token }
+09-01-2020 16:07:25.256 [Gauge] [ERROR] Line 44: Unexpected token }
+09-01-2020 16:07:27.829 [Gauge] [ERROR] Line 44: Unexpected token }
+09-01-2020 16:09:10.500 [Gauge] [ERROR] Line 41: Unexpected identifier
+09-01-2020 16:11:40.401 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:40.445 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:40.977 [Gauge] [DEBUG] request #372: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:19 Step should not be blank
+09-01-2020 16:11:41.327 [Gauge] [DEBUG] request #376: textDocument/codeLens: failed to parse c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:19 Step should not be blank
+09-01-2020 16:11:41.425 [Gauge] [DEBUG] request #377: textDocument/documentSymbol: parsing failed for c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec. [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec:19 Step should not be blank => '']
+09-01-2020 16:11:41.580 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:41.602 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:43.324 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:43.360 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:44.347 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:44.383 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:45.212 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:45.241 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:46.365 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:46.390 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:47.358 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:11:47.380 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:03.246 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:03.327 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:07.984 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:08.017 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:10.043 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:10.089 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:11.934 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:11.962 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:13.451 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:13.478 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:14.598 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:14.635 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:15.575 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:15.593 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:16.303 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:16.324 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:18.667 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:18.705 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:37.144 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:37.185 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:38.030 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:38.077 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:42.781 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:42.821 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:12:47.387 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:47.436 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:49.323 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:49.398 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:49.400 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:7 Concept should have atleast one step => '']
+09-01-2020 16:12:49.838 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:49.872 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:49.874 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:7 Concept should have atleast one step => '']
+09-01-2020 16:12:50.383 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:50.438 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:57.287 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:57.321 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:58.061 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:58.097 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:12:58.099 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:7 Concept heading can have only Dynamic Parameters => 'Goto Google and Search for "gmail"' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:9 Step is not defined inside a concept heading => 'Goto Google and Search for "gmail"' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 Step is not defined inside a concept heading => 'Search for "gmail"']
+09-01-2020 16:13:01.403 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:01.474 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:01.475 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:7 Concept heading can have only Dynamic Parameters => 'Goto Google and Search for "gmail"' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:9 Step is not defined inside a concept heading => 'Goto Google' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 Step is not defined inside a concept heading => 'Search for "gmail"']
+09-01-2020 16:13:04.007 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:04.041 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:04.042 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 String not terminated => 'Search for "gmail>' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:7 Concept heading can have only Dynamic Parameters => 'Goto Google and Search for "gmail"' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:9 Step is not defined inside a concept heading => 'Goto Google' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 Step is not defined inside a concept heading => 'Search for "gmail>']
+09-01-2020 16:13:05.869 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:05.897 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:05.898 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:7 Concept heading can have only Dynamic Parameters => 'Goto Google and Search for "gmail"' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:9 Step is not defined inside a concept heading => 'Goto Google' [ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 Step is not defined inside a concept heading => 'Search for <gmail>']
+09-01-2020 16:13:08.418 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:08.444 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:08.446 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 Dynamic parameter <gmail> could not be resolved => 'Search for <gmail>']
+09-01-2020 16:13:09.846 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:09.894 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:09.896 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 Dynamic parameter <gmail> could not be resolved => 'Search for <gmail>']
+09-01-2020 16:13:10.494 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:10.525 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:11.727 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:11.959 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 16:13:23.058 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:23.096 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:33.419 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:33.451 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:37.309 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:37.348 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:38.275 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:38.347 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:13:39.250 [Gauge] [DEBUG] request #598: textDocument/definition: Step implementation not found for step : Open new Tab
+{"logLevel":"info","message":{}}
+09-01-2020 16:13:51.163 [Gauge] [INFO] 
+{"logLevel":"info","message":{}}
+09-01-2020 16:13:52.248 [Gauge] [INFO] 
+09-01-2020 16:14:05.834 [Gauge] [ERROR] Line 47: Unexpected identifier
+09-01-2020 16:14:06.665 [Gauge] [ERROR] Line 47: Unexpected identifier
+09-01-2020 16:14:07.648 [Gauge] [ERROR] Line 47: Unexpected end of input
+09-01-2020 16:14:11.830 [Gauge] [ERROR] Line 47: Invalid left-hand side in assignment
+09-01-2020 16:14:12.705 [Gauge] [ERROR] Line 47: Unexpected end of input
+09-01-2020 16:14:12.968 [Gauge] [ERROR] Line 47: Unexpected end of input
+09-01-2020 16:14:16.243 [Gauge] [ERROR] Line 49: Unexpected token }
+09-01-2020 16:14:17.564 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:18.902 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:22.931 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:23.149 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:24.054 [Gauge] [ERROR] Line 49: Unexpected token }
+09-01-2020 16:14:24.711 [Gauge] [ERROR] Line 49: Unexpected token }
+09-01-2020 16:14:25.501 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:37.515 [Gauge] [ERROR] Line 49: Unexpected token }
+09-01-2020 16:14:38.100 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:41.956 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:46.963 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:47.182 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:14:55.092 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:15:00.920 [Gauge] [ERROR] Line 49: Unexpected token }
+09-01-2020 16:15:02.158 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:15:05.642 [Gauge] [ERROR] Line 48: Unexpected token (
+09-01-2020 16:15:06.496 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:16:08.255 [Gauge] [ERROR] Line 48: Unexpected identifier
+09-01-2020 16:16:09.081 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:16:09.615 [Gauge] [ERROR] Line 49: Unexpected token )
+09-01-2020 16:29:06.406 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:29:06.433 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:31:48.502 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:31:48.545 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:31:57.393 [Gauge] [ERROR] Line 21: Unexpected token :
+09-01-2020 16:32:00.593 [Gauge] [ERROR] Line 21: Unexpected token }
+09-01-2020 16:38:19.813 [Gauge] [ERROR] Line 21: Unexpected token }
+09-01-2020 16:38:20.137 [Gauge] [ERROR] Line 21: Unexpected token :
+09-01-2020 16:40:48.094 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:40:48.125 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:41:04.496 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:41:04.524 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:41:09.385 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:41:09.403 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:42:43.006 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:42:43.037 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:01.897 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:01.917 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:02.640 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:02.669 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:03.264 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:03.282 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:07.519 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:07.561 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:08.447 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:43:08.469 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+{"logLevel":"info","message":{}}
+09-01-2020 16:46:43.577 [Gauge] [INFO] 
+{"logLevel":"info","message":{}}
+09-01-2020 16:46:44.685 [Gauge] [INFO] 
+09-01-2020 16:47:56.532 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 16:47:56.650 [Gauge] [INFO] Spec file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+09-01-2020 17:23:15.264 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 17:23:15.294 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 17:23:15.297 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt:10 Dynamic parameter <gmail> could not be resolved => 'Search for <gmail>']
+09-01-2020 17:23:17.843 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+09-01-2020 17:23:17.881 [Gauge] [INFO] Concept file added / modified: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+timers.js:450
+throw new TypeError('"callback" argument must be a function');
+^
+
+TypeError: "callback" argument must be a function
+at setTimeout (timers.js:450:11)
+at LspServerHandler.killProcess (C:\Users\shubgoel\AppData\Roaming\gauge\plugins\js\2.3.6\src\lsp-server.js:101:5)
+at C:\Users\shubgoel\AppData\Roaming\gauge\plugins\js\2.3.6\node_modules\grpc\src\server.js:593:13
+10-01-2020 11:28:23.189 [Gauge] [INFO] Watching directory: c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs
+10-01-2020 11:28:23.246 [Gauge] [DEBUG] Found 2 files
+10-01-2020 11:29:00.611 [Gauge] [INFO] Initializing concepts cache with 2 concepts
+10-01-2020 11:29:00.611 [Gauge] [DEBUG] Adding concepts from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+10-01-2020 11:29:00.611 [Gauge] [DEBUG] Adding concepts from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\click.cpt
+10-01-2020 11:29:00.616 [Gauge] [INFO] Initializing specs cache with 1 specs
+10-01-2020 11:29:00.616 [Gauge] [DEBUG] Adding specs from c:\Users\shubgoel\Desktop\gauge\gauge-taiko-poc\specs\search.spec
+10-01-2020 11:29:00.616 [Gauge] [INFO] Initializing steps cache with 2 steps
+10-01-2020 11:29:00.631 [Gauge] [INFO] Starting language runner
+(node:14684) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+10-01-2020 11:29:10.909 [Gauge] [INFO] Listening on port:52745
+10-01-2020 11:29:10.913 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
