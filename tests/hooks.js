@@ -22,9 +22,12 @@ afterScenario(async () => {
 
 afterStep(async (context) => {
     // console.log(context);
-    let { currentStep : {step: {actualStepText : stepName}}} = context; 
-    if (stepName == "Check if email id exists" && gauge.dataStore.scenarioStore.get("emailExists") == true) {
+    let { currentStep : {step: {actualStepText : actualStepName, parsedStepText : parsedStepName}}} = context; 
+    if (actualStepName == "Check if email id exists" && gauge.dataStore.scenarioStore.get("emailExists") == true) {
         // await goto(gauge.dataStore.specStore.get("url"));
         await goBack();
+    }
+    else if (parsedStepName == "Search for apiResult") {
+        await waitFor(2000);
     }
 }, {tags: ['refresh']})

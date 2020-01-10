@@ -1,9 +1,16 @@
 # Search something on Google
 
+## Run public API
+Tags: api
+
+* Run an API
+* Post name "Shubham"
+
 ## Search something
 Tags: search
 
-* Goto Google and Search for "github"
+* Goto Google and Search for "apiResult"
+* Search for "github"
 
 ## Switch Tab
 Tags: new
